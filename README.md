@@ -1,4 +1,4 @@
-# Mini-Project-2
+# Mini-Project-1
 
 Monitoring and control of greenhouse environment play a significant role in greenhouse production and 
 management. To monitor the greenhouse environment parameters effectively, it is necessary to design 
